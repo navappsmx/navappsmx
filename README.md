@@ -1,11 +1,12 @@
 #  HOLA MUNDO
 
 ```py
+// NOTE: n must be greater than -1
 function holi(n)
 {
-  let x = "8";
+  let x = "8=";
   
-  for(i = 0; i < n; i++)
+  for(let i = 0; i < n; i++)
   {
     x += "=";
   }
