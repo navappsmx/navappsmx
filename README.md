@@ -1,7 +1,6 @@
 #  HOLA MUNDO
 
 ```py
-// NOTE: n must be greater than -1
 function holi(n)
 {
   let x = "8=";
