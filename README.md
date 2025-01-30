@@ -3,15 +3,15 @@
 ```py
 function holi(n)
 {
-  let x = "8=";
+    let x = "8=";
   
-  for(let i = 0; i < n; i++)
-  {
-    x += "=";
-  }
+    for(let i = 0; i < n; i++)
+    {
+        x += "=";
+    }
   
-  x += "D";
+    x += "D";
   
-  return x;
+    return x;
 }
 ```
