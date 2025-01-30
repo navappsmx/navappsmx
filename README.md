@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @navappsmx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#  HOLA MUNDO
+
+```py
+function holi(n)
+{
+  let x = "8";
+  
+  for(i = 0; i < n; i++)
+  {
+    x += "=";
+  }
+  
+  x += "D";
+  
+  return x;
+}
+```
